@@ -23,8 +23,8 @@ To get started with this project, you will need to have Node.js installed. If yo
 Clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-repo/hello-world-sveltekit-capacitor.git
-cd sveltekit-capacitor-techhub
+git clone https://github.com/NashTech-Labs/sveltkit-capacitor-template.git
+cd sveltekit-capacitor-template
 cd template-sveltekit-capacitor
 npm install
 ```
