@@ -133,7 +133,7 @@ Here are some useful Capacitor commands:
 - [Vite Documentation](https://vite.dev/guide/)
 
 ## Mobile app
-![alt text](image.png)
+![alt text](./assets/image.png)
 
 ## Desktop View
-![alt text](image-1.png)
+![alt text](./assets/image-1.png)
